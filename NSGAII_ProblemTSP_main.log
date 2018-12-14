@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-10T22:58:23</date>
+  <millis>1544493503406</millis>
+  <sequence>0</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.nsgaII.NSGAII_ProblemTSP_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Total execution time: 536ms</message>
+</record>
+<record>
+  <date>2018-12-10T22:58:23</date>
+  <millis>1544493503422</millis>
+  <sequence>1</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.nsgaII.NSGAII_ProblemTSP_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Variables values have been writen to file VAR_NSGAII</message>
+</record>
+<record>
+  <date>2018-12-10T22:58:23</date>
+  <millis>1544493503426</millis>
+  <sequence>2</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.nsgaII.NSGAII_ProblemTSP_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Objectives values have been writen to file FUN_NSGAII</message>
+</record>
+<record>
+  <date>2018-12-10T22:58:23</date>
+  <millis>1544493503427</millis>
+  <sequence>3</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.nsgaII.NSGAII_ProblemTSP_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>QUALITY INDICATORS</message>
+</record>
+<record>
+  <date>2018-12-10T22:58:23</date>
+  <millis>1544493503427</millis>
+  <sequence>4</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.nsgaII.NSGAII_ProblemTSP_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hypervolume: 0.8241032187824778</message>
+</record>
+<record>
+  <date>2018-12-10T22:58:23</date>
+  <millis>1544493503432</millis>
+  <sequence>5</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.nsgaII.NSGAII_ProblemTSP_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>GD         : 0.010179912786130537</message>
+</record>
+<record>
+  <date>2018-12-10T22:58:23</date>
+  <millis>1544493503435</millis>
+  <sequence>6</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.nsgaII.NSGAII_ProblemTSP_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IGD        : 0.00790497738767268</message>
+</record>
+<record>
+  <date>2018-12-10T22:58:23</date>
+  <millis>1544493503438</millis>
+  <sequence>7</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.nsgaII.NSGAII_ProblemTSP_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Spread     : 1.3944849220857967</message>
+</record>
+<record>
+  <date>2018-12-10T22:58:23</date>
+  <millis>1544493503443</millis>
+  <sequence>8</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.nsgaII.NSGAII_ProblemTSP_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Epsilon    : 112.71000000000004</message>
+</record>
+<record>
+  <date>2018-12-10T22:58:23</date>
+  <millis>1544493503443</millis>
+  <sequence>9</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>jmetal.metaheuristics.nsgaII.NSGAII_ProblemTSP_main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Speed      : 9900 evaluations</message>
+</record>
+</log>

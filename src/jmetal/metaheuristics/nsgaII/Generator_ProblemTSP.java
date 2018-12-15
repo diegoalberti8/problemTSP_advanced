@@ -54,7 +54,7 @@ public class Generator_ProblemTSP {
       OutputStreamWriter osw = new OutputStreamWriter(fos)    ;
       BufferedWriter bw      = new BufferedWriter(osw)        ;
       
-      int cant_ciudades = PseudoRandom.randInt(10, 10);
+      int cant_ciudades = PseudoRandom.randInt(70, 70);
       bw.write(Integer.toString(cant_ciudades));
       bw.newLine();
       

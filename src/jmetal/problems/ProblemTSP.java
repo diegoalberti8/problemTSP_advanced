@@ -67,7 +67,7 @@ public class ProblemTSP extends Problem {
     
     readProblemFile(file);
     
-    System.out.println(" ");
+    /*System.out.println(" ");
     System.out.println("INSTANCIA DEL PROBLEMA: \n");
     
     System.out.println("numberOfCities_ = " + numberOfCities_);
@@ -77,7 +77,7 @@ public class ProblemTSP extends Problem {
     System.out.println("\nMatriz de costos: \n");
     showMatrix(costMatrix_);
     System.out.println("\nMatriz de tiempos: \n");
-    showMatrix(timeMatrix_);
+    showMatrix(timeMatrix_);*/
     
     length_      [0] = numberOfCities_ ;
     if (solutionType.compareTo("TSPPermutation") == 0)
